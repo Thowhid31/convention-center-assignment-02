@@ -16,3 +16,27 @@ a{
     text-decoration: none;
     color: white;
 }
+.tick-part-0101{
+    color: gray;
+    font-weight: 300;
+    margin-left: 5px;
+}
+
+.first-card-service{
+    border-style: none;
+}
+.the-second-card{
+    color: white;
+    background-size: 150%;
+    margin-right: 40px;
+}
+
+.tick-part-0101{
+    font-weight: 300;
+    margin-left: 5px;
+}
+.choose-plan-2{
+    padding-bottom: 0%;
+    margin-top: 18px;
+    margin-bottom: 0;
+}
