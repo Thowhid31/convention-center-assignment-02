@@ -4,9 +4,6 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-.nav-height-0{
-    height: 85px;
-}
 
 .covid-para-1{
     font-size: 18px;
@@ -15,6 +12,15 @@ body{
 a{
     text-decoration: none;
     color: white;
+}
+
+.banner{
+        height: calc(16vh - 80px);
+}
+
+.corosel-class-1{
+    text-decoration: none;
+    color: blue;
 }
 .tick-part-0101{
     color: gray;
