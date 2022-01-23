@@ -1,10 +1,12 @@
+/* google font */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Poppins:wght@300;400;600&display=swap');
 
+/* body for google font */
 body{
     font-family: 'Poppins', sans-serif;
 }
 
-
+/* header here */
 .covid-para-1{
     font-size: 18px;
 }
@@ -18,10 +20,14 @@ a{
         height: calc(16vh - 80px);
 }
 
+/* carosel here */
+
 .corosel-class-1{
     text-decoration: none;
     color: blue;
 }
+
+/* cards */
 .tick-part-0101{
     color: gray;
     font-weight: 300;
@@ -46,6 +52,8 @@ a{
     margin-top: 18px;
     margin-bottom: 0;
 }
+
+/* footer here */
 .footer-last-part{
     justify-content: space-around;
     align-items: center;
